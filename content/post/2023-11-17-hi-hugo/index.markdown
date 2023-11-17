@@ -3,8 +3,8 @@ title: Hi Hugo
 author: ''
 date: '2023-11-17'
 slug: hi-hugo
-categories: []
-tags: []
+categories: [Blogdown, Hugo]
+tags: [Test]
 subtitle: ''
 summary: ''
 authors: []
@@ -18,7 +18,7 @@ projects: []
 ---
 
 Привет, непарнокопытные!  
-
+17-11 -- 23-55  
 
 ```r
 summary(Orange)
