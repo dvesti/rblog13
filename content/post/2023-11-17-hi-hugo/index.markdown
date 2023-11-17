@@ -36,18 +36,18 @@ summary(Orange)
 
 Ещё одна штучка  
 
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
+```
 
-```
-## Warning: пакет 'ggplot2' был собран под R версии 4.3.2
-```
-
-```
-## Warning: The `<scale>` argument of `guides()` cannot be `FALSE`. Use "none" instead as
-## of ggplot2 3.3.4.
-## This warning is displayed once every 8 hours.
-## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
-## generated.
-```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+Тест:
+17-11-2023 -- 23-43  
 
