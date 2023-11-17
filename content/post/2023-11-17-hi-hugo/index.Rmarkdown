@@ -1,10 +1,10 @@
 ---
 title: Hi Hugo
 author: ''
-date: '2023-11-17'
+date: '2023-11-17 00:00:00+02:00'
 slug: hi-hugo
-categories: []
-tags: []
+categories: [Blogdown, Hugo]
+tags: [Test]
 subtitle: ''
 summary: ''
 authors: []
@@ -37,3 +37,5 @@ oplot <- ggplot(Orange, aes(x = age,
 oplot
 ```
 
+Тест:
+17-11-2023 -- 23-43  
