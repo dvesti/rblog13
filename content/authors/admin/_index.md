@@ -46,7 +46,7 @@ skills:
     icon_pack: fas
     name: SQL
     percent: 40
-  name: Technical
+  name: Технические
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
@@ -58,14 +58,14 @@ skills:
   - description: ""
     icon: cat
     icon_pack: fas
-    name: Cats
+    name: Кошки
     percent: 100
   - description: ""
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Фото
     percent: 80
-  name: Hobbies
+  name: Увлечения
 social:
 - icon: envelope
   icon_pack: fas
