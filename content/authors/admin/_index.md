@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Изучаю возможности создания вэбсайтов по разным технологиям, а также созданию книги в формате pdf не худе, чем в издательствах (в том числе и на русском языке!)
 education:
   courses:
   - course: PhD in Artificial Intelligence
