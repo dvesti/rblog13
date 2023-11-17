@@ -1,40 +1,46 @@
 ---
-bio: Изучаю возможности создания вэбсайтов по разным технологиям, а также созданию книги в формате pdf не худе, чем в издательствах (в том числе и на русском языке!)
+bio: Создаю сайты по разным технологиям, а также книги в формате pdf (в том числе и кириллице!)
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: Диплом с отличием после учёбы московском университете
+    institution: Московский институт
+    year: 1988
+  - course: Строительный факультет
+    institution: Таллиннский Технический Университет
+    year: 1979
+  - course: Общие курсы
+    institution: Тель-Авив
+    year: 1998
+  - course: Экстраваганза-96
+    institution: Амстердам
+    year: 1996
+  - course: Экстраваганза-98
+    institution: Барселона
+    year: 1998
+first_name: Владимир Дмитриев
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- Литература
+- Фотография
+- Интернет технологии
+last_name: Дмитриев
+name_pronunciation: Vladimir Dmitrijev
 organizations:
-- name: Stanford University
+- name: ex-VilDeFoto
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Инженер-строитель
 skills:
 - items:
   - description: ""
     icon: python
     icon_pack: fab
     name: Python
-    percent: 80
+    percent: 20
   - description: ""
     icon: chart-line
     icon_pack: fas
     name: Data Science
-    percent: 100
+    percent: 10
   - description: ""
     icon: database
     icon_pack: fas
