@@ -1,5 +1,5 @@
 ---
-bio: Создаю сайты по разным технологиям, а также книги в формате pdf (в том числе и кириллице!)
+bio: Создаю сайты по разным технологиям, а также книги в формате pdf (в том числе и на кириллице!)
 education:
   courses:
   - course: Диплом с отличием после учёбы московском университете
@@ -19,16 +19,16 @@ education:
     year: 1998
 first_name: Владимир Дмитриев
 highlight_name: true
-interests:
+Interests:
 - Литература
 - Фотография
 - Интернет технологии
 last_name: Дмитриев
-name_pronunciation: Vladimir Dmitrijev
+name_pronunciation: 
 organizations:
 - name: ex-VilDeFoto
   url: https://www.stanford.edu/
-role: Инженер-строитель
+role: Вебмастер
 skills:
 - items:
   - description: ""
@@ -91,8 +91,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Вебмастер
+title: Вольдемар
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Вольдемар -- Вебмастер и никто более
 {style="text-align: justify;"}

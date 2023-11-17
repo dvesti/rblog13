@@ -11,7 +11,7 @@ baseURL: 'https://rblog13.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
