@@ -44,7 +44,7 @@ sections:
 - block: skills
   content:
     text: ""
-    title: Skills
+    title: Навыки
     username: admin
   design:
     columns: "1"
@@ -73,7 +73,7 @@ sections:
       description: Taught electronic engineering and researched semiconductor physics.
       location: California
       title: Professor of Semiconductor Physics
-    title: Experience
+    title: Опыт работы
   design:
     columns: "2"
 - block: accomplishments
@@ -108,7 +108,7 @@ sections:
       title: Object-Oriented Programming in R
       url: ""
     subtitle: null
-    title: Accomplish&shy;ments
+    title: Достижения
   design:
     columns: "2"
 - block: collection
@@ -128,7 +128,7 @@ sections:
     order: desc
     subtitle: ""
     text: ""
-    title: Recent Posts
+    title: Блог
   design:
     columns: "2"
     view: compact
@@ -156,7 +156,7 @@ sections:
   content:
     subtitle: ""
     text: '{{< gallery album="demo" >}}'
-    title: Gallery
+    title: Галерея
   design:
     columns: "1"
 - block: collection
@@ -165,7 +165,7 @@ sections:
       featured_only: true
       folders:
       - publication
-    title: Featured Publications
+    title: Рекомендуем прочесть
   design:
     columns: "2"
     view: card
@@ -180,7 +180,7 @@ sections:
       {{% callout note %}}
       Quickly discover relevant content by [filtering publications](./publication/).
       {{% /callout %}}
-    title: Recent Publications
+    title: Публикации
   design:
     columns: "2"
     view: citation
@@ -189,14 +189,14 @@ sections:
     filters:
       folders:
       - event
-    title: Recent & Upcoming Talks
+    title: Беседы
   design:
     columns: "2"
     view: compact
   id: talks
 - block: tag_cloud
   content:
-    title: Popular Topics
+    title: Облако тэгов
   design:
     columns: "2"
 - block: contact
@@ -241,7 +241,7 @@ sections:
     subtitle: null
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
       ut magna et, vehicula efficitur enim.
-    title: Contact
+    title: Контакты
   design:
     columns: "2"
   id: contact

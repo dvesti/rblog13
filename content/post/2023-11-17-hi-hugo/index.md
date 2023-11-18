@@ -1,18 +1,18 @@
 ---
-title: Hi Hugo
+title: Hi, Hugo!
 author: ''
 date: '2023-11-17'
 slug: hi-hugo
 categories: 
-  - Blogdown
-  - Hugo
+- Blogdown
+- Hugo
 tags: 
-  - Test
+- Test
 subtitle: ''
 summary: ''
 authors: []
 lastmod: '2023-11-17T03:33:41+02:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
@@ -29,7 +29,7 @@ summary(Orange)
 
 Ещё одна штучка
 
-
+Код *gglot2* не прошёл (удалена)
 
 Тест:
 17-11-2023 -- 23-43  

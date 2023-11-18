@@ -10,18 +10,18 @@ main:
   - name: Блог
     url: '#posts'
     weight: 20
-  - name: Проекты
-    url: '#projects'
-    weight: 30
-  - name: Беседы
-    url: '#talks'
-    weight: 40
-  - name: Публикации
-    url: '#featured'
-    weight: 50
-  - name: Контакт
-    url: '#contact'
-    weight: 60
+#  - name: Проекты
+#    url: '#projects'
+#    weight: 30
+#  - name: Беседы
+#    url: '#talks'
+#    weight: 40
+#  - name: Публикации
+#    url: '#featured'
+#    weight: 50
+#  - name: Контакт
+#    url: '#contact'
+#    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
