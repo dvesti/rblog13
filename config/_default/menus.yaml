@@ -5,11 +5,20 @@
 
 main:
   - name: Главная
-    url: '#about'
-    weight: 10
-  - name: Блог
     url: '#posts'
+    weight: 10
+  - name: Архив
+    url: '/post/'
     weight: 20
+#  - name: Категории
+#    url: '/categories/'
+#    weight: 30
+#  - name: Тэги
+#    url: '/tags/'
+#    weight: 40
+  - name: О нас
+    url: '#about'
+    weight: 50
 #  - name: Проекты
 #    url: '#projects'
 #    weight: 30
