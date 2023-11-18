@@ -5,7 +5,7 @@
     <link>https://rblog13.netlify.app/post/</link>
       <atom:link href="https://rblog13.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rblog13.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Hi Hugo</title>
+      <title>Hi, Hugo!</title>
       <link>https://rblog13.netlify.app/post/hi-hugo/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://rblog13.netlify.app/post/hi-hugo/</guid>
@@ -21,6 +21,7 @@
 17-11 &amp;ndash; 23-55&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Orange&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Ещё одна штучка&lt;/p&gt;
+&lt;p&gt;Код &lt;em&gt;gglot2&lt;/em&gt; не прошёл (удалена)&lt;/p&gt;
 &lt;p&gt;Тест:
 17-11-2023 &amp;ndash; 23-43&lt;/p&gt;
 </description>
@@ -298,7 +299,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-548726139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-437621598&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -308,7 +309,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-548726139&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-437621598&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -7,18 +7,18 @@ main:
   - name: Главная
     url: '#posts'
     weight: 10
-  - name: Архив
-    url: '/post/'
-    weight: 20
+#  - name: Архив
+#    url: '/post/'
+#    weight: 20
 #  - name: Категории
 #    url: '/categories/'
 #    weight: 30
 #  - name: Тэги
 #    url: '/tags/'
 #    weight: 40
-  - name: О нас
-    url: '#about'
-    weight: 50
+#  - name: О нас
+#    url: = '/about/'
+#    weight: 40
 #  - name: Проекты
 #    url: '#projects'
 #    weight: 30
