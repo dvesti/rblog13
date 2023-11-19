@@ -1,0 +1,43 @@
+---
+title: Привет, Мир!
+author: Shila
+date: '2023-09-27'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-09-27T19:15:22+03:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Это новый пост,  
+который надо чем-то заполнить,  
+чтоб красиво было.  
+И -- да,  
+-- Привет, Мир!  
+
+```{r}
+summary(Orange)
+```
+
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
+```
+
+
+
